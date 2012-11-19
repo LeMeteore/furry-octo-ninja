@@ -1,2 +1,4 @@
+from markdown import markdown 
+
 def joke():
-    return (u'a joke')
+    return markdown(u'a joke')

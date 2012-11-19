@@ -8,4 +8,5 @@ setup(name='funny_packaging',
       author_email='patrick@soon.pro',
       license='MIT',
       packages=['funny_packaging'],
+      install_requires=['markdown'],
       zip_safe=False)
