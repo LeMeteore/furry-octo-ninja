@@ -1,1 +1,1 @@
-let's learn how to python package. Thanks to [](http://www.scotttorborg.com/python-packaging)
+let's learn how to python package. Thanks to [Scott Torborg](http://www.scotttorborg.com/python-packaging)
